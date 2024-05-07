@@ -1,1 +1,2 @@
-This is a session for learning git
+This is a session for learning git and github
+Add a new line
